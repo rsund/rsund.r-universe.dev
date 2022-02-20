@@ -1,7 +1,7 @@
 [
     {
         "package": "muste",
-        "url": "https://github.com/rsund/survor"
+        "url": "https://github.com/rsund/survor",
         "subdir": "pkg/muste"
     }
 ]
