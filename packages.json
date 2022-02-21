@@ -3,5 +3,15 @@
         "package": "muste",
         "url": "https://github.com/rsund/survor",
         "subdir": "pkg/muste"
+    },
+    {
+        "package": "survo.audio",
+        "url": "https://github.com/rsund/survor",
+        "subdir": "pkg/survo.audio"
+    },
+    {
+        "package": "virta",
+        "url": "https://github.com/rsund/survor",
+        "subdir": "pkg/virta" 
     }
 ]
