@@ -13,10 +13,5 @@
         "package": "virta",
         "url": "https://github.com/rsund/survor",
         "subdir": "pkg/virta" 
-    },
-    {
-        "package": "duckdb",
-        "url": "https://github.com/rsund/duckdb",
-        "subdir": "tools/rpkg" 
     }
 ]
